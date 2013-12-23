@@ -6,12 +6,14 @@ Information and code related to our Capitol Hill Townhouse
 
 Current Residents
 -----------------
-@cooleys
-@robatron
-@seanconnell
+
+- @cooleys
+- @robatron
+- @seanconnell
 
 ### Honerary
-@nicodemus26
+
+- @nicodemus26
 
 
 Quick Info
