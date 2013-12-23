@@ -7,13 +7,13 @@ Information and code related to our Capitol Hill Townhouse
 Current Residents
 -----------------
 
-- @cooleys
-- @robatron
-- @seanconnell
+- [@cooleys](//github.com/cooleys)
+- [@robatron](//github.com/robatron)
+- [@seanconnell](//github.com/seanconnell)
 
 ### Honerary
 
-- @nicodemus26
+- [@nicodemus26](//github.com/nicodemus26)
 
 
 Quick Info
