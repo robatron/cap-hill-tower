@@ -21,9 +21,14 @@ Quick Info
 
 ### Trash, Recycling, and Compost
 
+
+### Outside
+
 - **Pickup day:** Thursday morning (put out bins Wednesday evening)
 - **Pickup location:** Against east fence in the ally
 - **Storage location:** North side of the townhouse row
+
+#### Inside
 
 - **Small compost bags** for sink-side compost bin located in small bag drawer
 - **Large compost bags** for outside compost bin located outside
@@ -36,7 +41,7 @@ Quick Info
 
 ### WiFi
 
-Not putting this info publicly online ;-) Ask a resident.
+- Not putting this info publicly online ;-) Ask a resident.
 
 
 (Update as needed!)
