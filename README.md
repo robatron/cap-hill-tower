@@ -22,7 +22,7 @@ Quick Info
 ### Trash, Recycling, and Compost
 
 
-### Outside
+#### Outside
 
 - **Pickup day:** Thursday morning (put out bins Wednesday evening)
 - **Pickup location:** Against east fence in the ally
