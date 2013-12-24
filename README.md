@@ -11,7 +11,7 @@ Current Residents
 - [@robatron](//github.com/robatron)
 - [@seanconnell](//github.com/seanconnell)
 
-### Honerary
+### Honorary
 
 - [@nicodemus26](//github.com/nicodemus26)
 - [@andermic](//github.com/andermic)
