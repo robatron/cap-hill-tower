@@ -99,3 +99,9 @@ WiFi
 
 - Not putting this info publicly online ;-) Ask a resident.
 
+
+Project Ideas
+-------------
+
+- Simple lean ladder for the livingroom sitting area (made of recycled wood?)
+
