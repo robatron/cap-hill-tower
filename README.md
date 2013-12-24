@@ -14,6 +14,7 @@ Current Residents
 ### Honerary
 
 - [@nicodemus26](//github.com/nicodemus26)
+- [@andermic](//github.com/andermic)
 
 
 Kitchen
